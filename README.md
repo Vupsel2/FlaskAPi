@@ -78,5 +78,5 @@ As a bonus, an endpoint has been added to assign cakes to bakeries.
 - **Get all cakes for a specific bakery**  
   `GET /api/v1/bakeries/{id}/cakes`
 
-- **Assign a cake to a bakery**  
+- **Assign a cake to a bakery(Bonus)**  
   `POST /api/v1/bakeries/{bakery_id}/cakes/{cake_id}`
